@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    color: black;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.preview{
+    color: red;
+}
+h3{
+    color: yellow;
+    background-color: red;
+}
+.colorcontainer{
+    width: 220px;
+    height: 320px;
+    background-color: rgb(189, 187, 187);
+    box-shadow: 5px 5px 10px rgb(175, 173, 173), -5px -5px 10px rgb(175, 173, 173);
+    padding-left: 80px;
+    padding-top: 80px;
+    border-radius: 5px;
+    padding-right: 38px;
+    
+}
+.choose{
+    font-size: 17px;
+}
+#colorPicker{
+    margin-left: 5px;
+}
+.biginput{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.selectedcolor{
+    font-size: 17px;
+}
+.textinput{
+    border: none;
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: rgb(238, 238, 238);
+}
+.resetbtn{
+    border: none;
+    height: 35px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 50px;
+    background-color: rgba(184, 106, 3, 0.911);
+    color: white;
+    font-size: 15px;
+}
